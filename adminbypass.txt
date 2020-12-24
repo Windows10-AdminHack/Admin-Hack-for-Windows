@@ -1,0 +1,1 @@
+To run this, drag the User Account Control protected EXE/shortcut to EXE over the .bat file (with the left-click mouse button pressed) and then release the left-click mouse button when over the .bat file says open (exe name) with adminbypass.bat and then the EXE should open with administrator privilages.
