@@ -1,1 +1,3 @@
-To run this, drag the User Account Control protected EXE/shortcut to EXE over the .bat file (with the left-click mouse button pressed) and then release the left-click mouse button when over the .bat file says open (exe name) with adminbypass.bat and then the EXE should open with administrator privilages.
+To run this, download and run the .reg file. After that, to run any application without the administrator privileges, just select “Run as user without UAC privilege elevation” in the context menu when you right click on an EXE.
+
+Happy breaking your computer with dumb hacks! 😃
